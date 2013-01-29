@@ -10,7 +10,7 @@
  * @author : JC Etiemble - http://jc.etiemble.free.fr
  * @version :  2013
  * @copyright 2007-2013  (c) JC Etiemble
- * @package   GestAssoPhp+Pg
+ * @package   Test_demogig
  */
  
 /**
