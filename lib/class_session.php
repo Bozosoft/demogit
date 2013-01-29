@@ -10,7 +10,7 @@
  * @author : JC Etiemble - http://jc.etiemble.free.fr
  * @version :  2013
  * @copyright 2007-2013  (c) JC Etiemble
- * @package   Test_demogig
+ * @package   Test_demogit
  */
  
 /**
@@ -22,7 +22,7 @@
 
    /**
         * PHP 5 uniquement
-        * Classe de gestion  des sessions et accés pour GestAssoPhp
+        * Classe de gestion  des sessions et accés pour Test_demogit
         *
         * @author inconu du web + JCE
         * @copyright  None -  modifiée par JCE 21/10/2009
@@ -41,7 +41,7 @@
 	/**
 	* Defini si l'object session est cree
 	*/
-		private static $instance;
+		private static $instance; // x
 		
     /**
 	* Demarre la session utilisateur et fixe la variable statique
