@@ -10,7 +10,7 @@
  * @author : JC Etiemble - http://jc.etiemble.free.fr
  * @version :  2013
  * @copyright 2007-2013  (c) JC Etiemble
- * @package   Test_demogit
+ * @package   Test_demogit  Future_version
  */
  
 /**
@@ -41,7 +41,7 @@
 	/**
 	* Defini si l'object session est cree
 	*/
-		private static $instance; // x
+		private static $instance; // A valider
 		
     /**
 	* Demarre la session utilisateur et fixe la variable statique
@@ -142,7 +142,8 @@
 			$ip = ($_SERVER['REMOTE_ADDR']);
 			$req_insert_log = "INSERT INTO ".TABLE_LOGS."( Date_log,Ip_log,Nom_Log,Action_Log)"
 				. "VALUES('$date_log','$ip','$nomprenom','$action_log') ";		
-			$dbresult = $db->Execute($req_insert_log);			
+			$dbresult = $db->Execute($req_insert_log);	
+// test à faire			
 				
 			}
 
