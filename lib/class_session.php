@@ -1,6 +1,6 @@
 <?php 
 /**
- * Projet : gestassophp_sa [GestAssoPhp+Pg]
+ * Projet : Test_demogit  Future_version
  * ---------------------------
  * Licence Creative Commons selon les termes du présent contrat appelé Contrat Public Creative Commons 
  * Auteur original : Jean-Claude Etiemble

@@ -1,6 +1,6 @@
 <?php
 /**
- * Projet : gestassophp_sa [GestAssoPhp+Pg] * Basé sur Gestion membres Pour CAP Compétences Version originale avril 2003 et sur la version Pour FB-Rouen 2007  (c) JC Etiemble 
+ * Projet : Test_demogit  Future_version
  * ---------------------------
  * Licence Creative Commons selon les termes du présent contrat appelé Contrat Public Creative Commons 
  * Auteur original : Jean-Claude Etiemble

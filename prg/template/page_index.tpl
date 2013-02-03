@@ -1,4 +1,5 @@
-{* Affichage de la page type AVEC menu à gauche et CONTENU à définir*}
+{* Projet : Test_demogit  Future_version *}
+{* Affichage de la page type AVEC menu à gauche et CONTENU à définir Test_demogit  Future_version*}
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr">

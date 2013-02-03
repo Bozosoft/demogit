@@ -1,6 +1,6 @@
 <?php
 /**
- * Projet : gestassophp_sa [GestAssoPhp+Pg]
+ * Projet :Test_demogit  Future_version
  * ---------------------------
  * Licence Creative Commons selon les termes du présent contrat appelé Contrat Public Creative Commons 
  * Auteur original : Jean-Claude Etiemble
@@ -21,7 +21,7 @@
 */
 
 /**** La version de GestAsssoPhp  */
-$VERSION = "GestAssoPhp+Pg V 6.1.00";
+$VERSION = "Test_demogit V 1.0.00";
 define('VERSION', $VERSION);
 
 
