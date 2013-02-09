@@ -1,6 +1,6 @@
 <?php
 /**
- * Projet : Test_demogit  Future_version
+ * Projet : gestassophp_sa [GestAssoPhp+Pg] * Basé sur Gestion membres Pour CAP Compétences Version originale avril 2003 et sur la version Pour FB-Rouen 2007  (c) JC Etiemble 
  * ---------------------------
  * Licence Creative Commons selon les termes du présent contrat appelé Contrat Public Creative Commons 
  * Auteur original : Jean-Claude Etiemble
@@ -39,9 +39,9 @@
 		if (file_exists('install/index.php')) {
 			header('location: install/index.php');
 		} else {
-			echo '<br /><br /><span style="color:#FF0000; font-weight : bold">Fichier config/connexion.cfg.php absent !  STOP !</span>
-			<br /><br /> Vérifier ou connectez vous sur '.$_SERVER["SERVER_NAME"].$_SERVER["REQUEST_URI"].'/install/ <br />
-			Si vous êtes autorisé à effectuer cette opération';			
+			echo '<br /><br /><span style="color:#FF0000; font-weight : bold">Fichier config/connexion.cfg.php absent !  version_future STOP !</span>
+			<br /><br /> V&eacute;rifier ou connectez vous sur '.$_SERVER["SERVER_NAME"].$_SERVER["REQUEST_URI"].'/install/ <br />
+			Si vous &ecirc;tes autoris&eacute; &agrave; effectuer cette op&eacute;ration';			
 		}
 		exit;
 	}
