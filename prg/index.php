@@ -40,8 +40,8 @@
 			header('location: install/index.php');
 		} else {
 			echo '<br /><br /><span style="color:#FF0000; font-weight : bold">Fichier config/connexion.cfg.php absent !  STOP !</span>
-			<br /><br /> Vérifier ou connectez vous sur '.$_SERVER["SERVER_NAME"].$_SERVER["REQUEST_URI"].'/install/ <br />
-			Si vous êtes autorisé à effectuer cette opération';			
+			<br /><br /> V&eacute;rifier ou connectez vous sur '.$_SERVER["SERVER_NAME"].$_SERVER["REQUEST_URI"].'/install/ <br />
+			Si vous &ecirc;tes autoris&eacute; &agrave; effectuer cette op&eacute;ration';			
 		}
 		exit;
 	}
