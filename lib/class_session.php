@@ -10,7 +10,7 @@
  * @author : JC Etiemble - http://jc.etiemble.free.fr
  * @version :  2013
  * @copyright 2007-2013  (c) JC Etiemble
- * @package   Test_demogit  Future_version
+ * @package   Test_demogit  Future_version test essi pour 1.8.2
  */
  
 /**
