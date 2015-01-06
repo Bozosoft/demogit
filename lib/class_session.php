@@ -1,6 +1,6 @@
 <?php 
 /**
- * Projet : Test_demogit 
+ * Projet : Test_demogit  06/01/2015
  * ---------------------------
  * Licence Creative Commons selon les termes du présent contrat appelé Contrat Public Creative Commons 
  * Auteur original : Jean-Claude Etiemble
