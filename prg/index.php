@@ -29,6 +29,7 @@
  *   Fichier :
  *   Fichier Index controle l'authentfication et redirige vers /adherent/index.php
 */
+// test 04/03git 195+ Tg1813
 
 //Test si l'installation est existante par le fichier config/connexion.cfg.php
 	if (file_exists('config/connexion.cfg.php')) {
