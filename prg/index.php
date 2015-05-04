@@ -30,6 +30,7 @@
  *   Fichier Index controle l'authentfication et redirige vers /adherent/index.php
 */
 // test 04/03git 195+ Tg1813
+// Git  Git-1.9.5-preview20150319 + TortoiseGit-1.8.14.0-32bit  le 04/05/2014 éssai
 
 //Test si l'installation est existante par le fichier config/connexion.cfg.php
 	if (file_exists('config/connexion.cfg.php')) {
