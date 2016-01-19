@@ -1,5 +1,5 @@
 {* Projet : gestassophp_sa [GestAssoPhp+Pg]*}
-{* Affichage de la page Acccés avec Login et mot de passe  login.tpl *}
+{* Affichage de la page Acccés avec Login et mot de passe  login.tpl modif 19/01/16*}
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr">
