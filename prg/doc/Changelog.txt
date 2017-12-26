@@ -12,6 +12,8 @@
  * @package   GestAssoPhp+Pg
  */
 
+test du 26/12/2017  17.1.3 #11203, installed: #11182
+
 v test 25/03/16 
 
 6.1.0 16/01/2013
