@@ -22,20 +22,21 @@ récupérer les fichiers depuis https://packages.debian.org/buster/  live-build 
 - permet de construire un ISO 32 bits ou 64 bits par la commande ./DFbuild.sh 32 ou ./DFbuild.sh 64 
 
 #### Donc Ouvrez un terminal et lancer la commande pour construire l'ISO
-- Une fois le process lancé vous pouvez suivre le déroulement des étapes à la fin de la construction vous pourrez lire
-- Selon votre machine et la qualité de votre réseau Internet, cela peut prendre entre 20/30 minutes et 1 à 1H30 heure.
+- Une fois le process lancé vous pouvez suivre le déroulement des étapes. A la fin de la construction vous pourrez lire :
 [20XX-XX-XX 16:57:37] lb clean noauto
 P: Cleaning chroot
 Opération achevée en XXX minutes
+- Selon votre machine et la qualité de votre réseau Internet, cela peut prendre entre 20/30 minutes et 1 à 1H30 heure.
 
-- De plus le système génère un fichier des évènements chronologique exécutés (dflinuxe10.log)
-- l'arborescence à la dfin du traitement ressemblera à 
+
+- De plus le système génère un fichier des opérations de construction exécutés (dflinuxe10.log)
+- l'arborescence à la fin du traitement ressemblera à 
 	- dfiso/.build
 	- dfiso/auto
 	- dfiso/cache
 	- dfiso/config
-	- dfiso/dfl-amd64 ->dossier ISO 64 bits
-	- dfiso/dfl-i386  ->dossier ISO 32 bits
+	- dfiso/dfl-amd64 ->dossier si ISO 64 bits
+	- dfiso/dfl-i386  ->dossier si ISO 32 bits
 	- dfiso/doc
 	- dfiso/ext
 	- dfiso/DFbuild.sh
@@ -47,13 +48,13 @@ Opération achevée en XXX minutes
 	- dflinuxexxxxx.iso : le fichier *.iso distribution construite
 	- dflinuxexxxxx.pkgs : les noms des paquets de la distribution construite 
 
-##### Nota si vous construisez plusieurs fois l'ISO en 64 Bits inutile de vider le cache vous allez gagner de nombreuses minutes sur le processus
+##### Nota : si vous construisez plusieurs fois l'ISO en 64 Bits inutile de vider le cache vous allez gagner de nombreuses minutes sur le processus
 
 ##### Il ne vous reste plus qu’a tester votre distribution dérivée Debian personnalisée et y apporter d'eventuel correctifs pour reconstruire une version plus finalisée.
 
 Si vous désirez vous tenir au courant et suivre le projet DFLinux conslter le forum  https://debian-facile.org/forum.php et/ou le Wiki https://debian-facile.org/projets:iso-debian-facile
 
-#####Crédits
+##### Crédits
  - le site officiel Debian : https://www.debian.org/
  -  l'association Framasoft https://framasoft.org qui héberge les sources de ces projets 
  - arpinux : pour la première DFiso et les cahiers du débutant https://arpinux.org
