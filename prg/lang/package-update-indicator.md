@@ -1,5 +1,5 @@
 
-#### suite bug sur le paquet Debian [ package-update-indicator](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=946634 "package-update-indicator is compiled with the wrong prefix").
+#### suite bug sur le paquet Debian 10 Buster [ package-update-indicator](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=946634 "package-update-indicator is compiled with the wrong prefix").
  *That results in a compilation with the PACKAGE_LOCALE_DIR macro set to "/usr/local/share/locale" and package-update-indicator looking in the wrong directory for translation data at runtime*
 
  - les fichiers de langue devraient se trouver dans :
