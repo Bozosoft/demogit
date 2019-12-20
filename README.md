@@ -1,7 +1,7 @@
 demogit
 =======
 
-### Dossier de tests des manipulations et stockage divers
+### Dossier de tests des manipulations et scripts divers
 
 * Ajout des fichiers de langue pour Debian
 
