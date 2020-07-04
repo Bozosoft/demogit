@@ -25,7 +25,7 @@ récupérer les fichiers depuis https://packages.debian.org/bullseye/live-build 
 - en terminal lancer
  - cd /usr/share/live/build/data/debian-cd/
  - puis  sudo ln -s squeeze ./bullseye
- - voir [bullseye](ls_bulleyes.png)
+ - ![modification](ls_bulleyes.png "l'image de la modification") 
 
 
 #### le fichier DFbuild.sh 
