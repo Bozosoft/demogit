@@ -9,7 +9,9 @@
    
 ####  Le bug 946634 a été fermé 20/02/2020
  * Pour la version Debian 11 le paquet a donc été corrigé.
- * les traductions pointent bien maintenant vers config/includes.chroot/usr/share/locale/fr/LC_MESSAGES/
+ * les traductions pointent bien maintenant vers /usr/share/locale/fr/LC_MESSAGES/
+ * Mais comme la tradution FR n'est pas incluse dans la paquet package-update-indicator, 
+ * Il faut copier le fichier package-update-indicator.mo dans le dossier /usr/share/locale/fr/LC_MESSAGES/.
 
 
 ##### Pour utiliser la version FR (en attendant la correction ... ), voici ma tradution Fr [package-update-indicator.mo](https://github.com/Bozosoft/demogit/blob/master/prg/lang/package-update-indicator.mo "fichier de langue : package-update-indicator.mo - Cliquez sur le bouton Download pour le télécharger") à metre dans le bon dossier /usr/local/share/locale/fr/LC_MESSAGES/
