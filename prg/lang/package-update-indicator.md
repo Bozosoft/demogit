@@ -6,6 +6,9 @@
    * /usr/share/locale/fr/LC_MESSAGES/
  - mais le programme les cherchent dans :
    * /usr/local/share/locale/fr/LC_MESSAGES/
+   
+####  Le bug 946634 a été fermé 20/02/2020
+ * Pour la version Debian 11 le paquet a donc été corrigé.
 
 ##### Pour utiliser la version FR (en attendant la correction ... ), voici ma tradution Fr [package-update-indicator.mo](https://github.com/Bozosoft/demogit/blob/master/prg/lang/package-update-indicator.mo "fichier de langue : package-update-indicator.mo - Cliquez sur le bouton Download pour le télécharger") à metre dans le bon dossier /usr/local/share/locale/fr/LC_MESSAGES/
 
