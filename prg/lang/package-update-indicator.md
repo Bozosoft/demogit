@@ -7,15 +7,20 @@
  - mais le programme les cherchent dans :
    * /usr/local/share/locale/fr/LC_MESSAGES/
    
-####  Le bug 946634 a été fermé 20/02/2020
- * Pour la version Debian 11 le paquet a donc été corrigé.
+#### Le bug 946634 a été fermé 20/02/2020
+ * Pour la version Debian 11 le paquet package-update-indicator a donc été corrigé pour le lien des langues. [ Closes: #94663](https://salsa.debian.org/pkgutopia-team/package-update-indicator/-/commit/ed0dc539f4fd8867b235f6f2bf150d5d61f9001a "Run make explicitly to account for hand-made Makefile vars (Closes: #946634)") 
  * les traductions pointent bien maintenant vers /usr/share/locale/fr/LC_MESSAGES/
  * Mais comme la tradution FR n'est pas incluse dans la paquet package-update-indicator, 
  * Il faut copier le fichier package-update-indicator.mo dans le dossier /usr/share/locale/fr/LC_MESSAGES/.
 
 
-##### Pour utiliser la version FR (en attendant la correction ... ), voici ma tradution Fr [package-update-indicator.mo](https://github.com/Bozosoft/demogit/blob/master/prg/lang/package-update-indicator.mo "fichier de langue : package-update-indicator.mo - Cliquez sur le bouton Download pour le télécharger") à metre dans le bon dossier /usr/local/share/locale/fr/LC_MESSAGES/
+##### Pour utiliser la version FR (en attendant la correction ... ), voici ma traduction Fr [package-update-indicator.mo](https://github.com/Bozosoft/demogit/blob/master/prg/lang/package-update-indicator.mo "fichier de langue : package-update-indicator.mo - Cliquez sur le bouton Download pour le télécharger") à mettre dans le bon dossier 
+ * pour la version Debian 10 dans le dossier /usr/local/share/locale/fr/LC_MESSAGES/
+ * pour la version Debian 11 dans le dossier /usr/share/locale/fr/LC_MESSAGES/
 
-  * Pour information le fichier [package-update-indicator.po](https://github.com/Bozosoft/demogit/blob/master/prg/lang/package-update-indicator.po "fichier de langue : package-update-indicator.po - base de traduction") est le fichier envoyé au développeur du [project package-update-indicator](https://hg.guido-berhoerster.org/projects/package-update-indicator/ "logs du projet").
+##### Fichier de traduction
+  Pour information le fichier [package-update-indicator.po](https://github.com/Bozosoft/demogit/blob/master/prg/lang/package-update-indicator.po "fichier de langue : package-update-indicator.po - base de traduction") est le fichier envoyé au développeur du [project package-update-indicator](https://hg.guido-berhoerster.org/projects/package-update-indicator/ "logs du projet").
 
- * [Me contacter pour erreurs ou corrections](http://jc.etiemble.free.fr/ "Site Web perso")
+
+##### Contact
+ [Me contacter pour erreurs ou corrections](http://jc.etiemble.free.fr/ "Site Web perso")
