@@ -16,7 +16,7 @@
 
 ##### Pour utiliser la version FR (en attendant la correction ... ), voici ma traduction Fr [package-update-indicator.mo](https://github.com/Bozosoft/demogit/blob/master/prg/lang/package-update-indicator.mo "fichier de langue : package-update-indicator.mo - Cliquez sur le bouton Download pour le télécharger") à mettre dans le bon dossier 
  * pour la version Debian 10 dans le dossier /usr/local/share/locale/fr/LC_MESSAGES/
-   * Comme ces dossiers /locale, /fr et /LC_MESSAGES n'exsitent pas, il faut donc les créer avant de copier le fichier package-update-indicator.mo
+   * Comme ces dossiers /locale, /fr et /LC_MESSAGES n'existent pas, il faut donc les créer avant de copier le fichier package-update-indicator.mo
  * pour la version Debian 11 dans le dossier /usr/share/locale/fr/LC_MESSAGES/
 
 ##### Fichier de traduction
