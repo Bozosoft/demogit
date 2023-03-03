@@ -1,6 +1,6 @@
 <?php 
 /**
- * Projet : Test_demogit  06/01/2015
+ * Projet : Test_demogit  06/01/2015 -> 03032023
  * ---------------------------
  * Licence Creative Commons selon les termes du présent contrat appelé Contrat Public Creative Commons 
  * Auteur original : Jean-Claude Etiemble
@@ -8,8 +8,8 @@
  * ---------------------------
  *	
  * @author : JC Etiemble - http://jc.etiemble.free.fr
- * @version :  2013
- * @copyright 2007-2013  (c) JC Etiemble
+ * @version :  2023
+ * @copyright 2007-2023  (c) JC Etiemble
  * @package   Test_demogit mod 14/03 + 2eme TortoiseGitPLink.exe resai
  */
  
@@ -41,7 +41,7 @@
 	/**
 	* Defini si l'object session est cree
 	*/
-		private static $instance; // x
+		private static $instance; // x23
 		
     /**
 	* Demarre la session utilisateur et fixe la variable statique
