@@ -4,7 +4,7 @@ demogit
 ### Dossier de tests des manipulations et scripts divers
 
 * Tests et manipulations sur les fichiers Git (pour essais)
-  Utilisation de Git Cola (The highly caffeinated Git GUI)
+   - Utilisation de Git Cola (The highly caffeinated Git GUI)
 
 * Ajout des fichiers de langue FR pour Debian
 
